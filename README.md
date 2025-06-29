@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Udaya Lakshmi Neelima Inakonda
 
-<!--
-**udayaInakonda/udayaInakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI Engineer | Full Stack Developer | Problem Solver 💡**
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **Resume & JD Analyzer** using LLMs and semantic search  
+- 🌱 Learning: **Generative AI**, **Machine Learning**, and **AI toolchains**
+- 🛠️ Tech Stack: `Python`, `FastAPI`, `React`, `TensorFlow`, `HuggingFace`, `MySQL`
+- 📝 Recent Projects:
+  - 🎯 [Resume Analyzer](https://github.com/udayaInakonda/resume-analyzer) – AI-powered resume and JD matcher
+  - 🤖 [Chatbot Portfolio App](#) *(link if public)*
+- 💬 Ask me about: **AI**, **ML**, **LLMs**, and **Full Stack Projects**
+- 📫 Connect with me:
+  - [LinkedIn](https://linkedin.com/in/udayalakshmineelima)
+  - [GitHub](https://github.com/udayaInakonda)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can add stats, GitHub streaks, badges, and more -->
+
+
