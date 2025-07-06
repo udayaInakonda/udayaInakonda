@@ -7,7 +7,7 @@
 - 🛠️ Tech Stack: `Python`, `FastAPI`, `React`, `TensorFlow`, `HuggingFace`, `MySQL`
 - 📝 Recent Projects:
   - 🎯 [Resume Analyzer](https://github.com/udayaInakonda/resume-analyzer) – AI-powered resume and JD matcher
-  - 🤖 [Chatbot Portfolio App](#) *(link if public)*
+  - 🤖 [Chatbot Portfolio App](#)
 - 💬 Ask me about: **AI**, **ML**, **LLMs**, and **Full Stack Projects**
 - 📫 Connect with me:
   - [LinkedIn](https://linkedin.com/in/udayalakshmineelima)
