@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udaya Lakshmi Neelima Inakonda
 
-**Aspiring AI Engineer | Full Stack Developer | Problem Solver 💡**
+** Full Stack Developer | Problem Solver 💡**
 
 - 🔭 Currently working on: **Resume & JD Analyzer** using LLMs and semantic search  
 - 🌱 Learning: **Generative AI**, **Machine Learning**, and **AI toolchains**
